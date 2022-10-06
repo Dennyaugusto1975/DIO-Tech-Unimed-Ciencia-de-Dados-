@@ -1,12 +1,16 @@
 Desafio de Projeto: Analise de Dados com e Python Pandas
 
 
-Repositório criado para entregar o desafio de projeto da DIO do bootcamp Geração Tech da Unimed-BH
+Bootcamp Geração Tech Unimed-BH - Ciência de Dados, é introduzido a biblioteca Pandas, uma biblioteca Python de código aberto para análise de dadose manipulação de dados.
 
-Introdução a Biblioteca Pandas e estrutura de dados Primeiro foi feito um estudo de como manipular estrutura de dados e como utilizar alguns recursos da biblioteca Pandas para análise de dados
 
-Trabalhando com Planilhas em Excel Importando diversas planilhas Excel e unindo todas para que pudesse ser feito a analise com todas as planilhas necessárias de uma única vez Manipulação de dados e uso das bibliotecas Pandas e Matplotlib
+Assuntos relacionados
 
-Análise Exploratória Neste ponto foi onde realmente começou o desafio de fazer a analise exploraória de dados, usando um conjunto de dados simples visando encontrar respostas para os problemas de negócio que possam surgir.
-
-Todas as planilhas e arquivos CSV's estão em suas respectivas pastas de trabalho
+1 - Python Básico;
+2 - Estrutura de dados;
+3 - Introdução a Biblioteca Pandas;
+4 - Armazenamento dos novos cartões;
+5 - Trabalhando com arquivos em Excel;
+6 - Trabalhando com Datas;
+7 - Visualização de dados;
+8 - Análise Exploratória de dados.
